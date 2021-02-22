@@ -1,5 +1,5 @@
 [package]
-name = "euler"
+name = "infinity-euler"
 version = "0.1.0"
 authors = ["aalekhpatel07 <aalekh.gwpeck.7998@gmail.com>"]
 edition = "2018"
