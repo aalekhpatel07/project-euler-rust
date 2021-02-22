@@ -3,6 +3,11 @@ name = "euler"
 version = "0.1.0"
 authors = ["aalekhpatel07 <aalekh.gwpeck.7998@gmail.com>"]
 edition = "2018"
+description = "These are my solutions to Project Euler implemented in Rust."
+license = "MIT"
+license-file = "LICENSE"
+homepage = "https://www.github.com/aalekhpatel07/project-euler-rust"
+documentation = "https://www.github.com/aalekhpatel07/project-euler-rust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
